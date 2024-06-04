@@ -38,7 +38,7 @@ let wordsToDisplay = [
     "HP",
     "Cherry",
     "Dell",
-    // "Watermelon",
+    "Watermelon",
     // "Facebook",
     // "Blackberry",
     // "Cisco",

@@ -42,7 +42,7 @@ let wordsToDisplay = [
     "Facebook",
     "Blackberry",
     "Cisco",
-    // "Papaya",
+    "Papaya",
     // "Oracle"
 ];
 

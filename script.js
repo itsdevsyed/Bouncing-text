@@ -36,14 +36,14 @@ let wordsToDisplay = [
     "Adobe",
     "Raspberry",
     "HP",
-    "Cherry",
-    "Dell",
-    "Watermelon",
-    "Facebook",
-    "Blackberry",
-    "Cisco",
-    "Papaya",
-    "Oracle"
+    // "Cherry",
+    // "Dell",
+    // "Watermelon",
+    // "Facebook",
+    // "Blackberry",
+    // "Cisco",
+    // "Papaya",
+    // "Oracle"
 ];
 
 function setup() {

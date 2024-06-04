@@ -40,7 +40,7 @@ let wordsToDisplay = [
     "Dell",
     "Watermelon",
     "Facebook",
-    // "Blackberry",
+    "Blackberry",
     // "Cisco",
     // "Papaya",
     // "Oracle"

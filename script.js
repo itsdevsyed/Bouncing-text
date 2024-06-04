@@ -43,7 +43,7 @@ let wordsToDisplay = [
     "Blackberry",
     "Cisco",
     "Papaya",
-    // "Oracle"
+    "Oracle"
 ];
 
 function setup() {
